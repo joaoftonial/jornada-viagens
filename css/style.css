@@ -2,7 +2,7 @@
     font-family: "Montserrat";
     src: url(../fonts/Montserrat-VariableFont_wght.ttf);
     font-style: normal;
-    font-display: auto;
+    font-display: swap;
 }
 
 :root {
